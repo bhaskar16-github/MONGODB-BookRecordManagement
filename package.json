@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongo": "^0.1.0",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.2",
+    "node": "^22.6.0",
+    "nodemon": "^3.1.4"
+  },
+  "name": "mongodb-bookrecordmanagement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhaskar16-github/MONGODB-BookRecordManagement.git"
+  },
+  "author": "bhaskar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhaskar16-github/MONGODB-BookRecordManagement/issues"
+  },
+  "homepage": "https://github.com/bhaskar16-github/MONGODB-BookRecordManagement#readme"
+}
