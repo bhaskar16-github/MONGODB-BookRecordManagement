@@ -21,8 +21,6 @@ app.get("/",(req,res)=>{
         message: "server started up & running..."
     });
 });
-
-
  
 app.use ("/users", usersRouter);
 app.use ("/books", booksRouter);
