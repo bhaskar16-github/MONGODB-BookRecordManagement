@@ -8,8 +8,6 @@ const {
   updateBookById,
 } = require ("../controllers/book-controller");
 
-const { books } = require("../data/books.json");
-const { users } = require("../data/users.json");
 
 const {UserModel, BookModel} = require("../models");
 

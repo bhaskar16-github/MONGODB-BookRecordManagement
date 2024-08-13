@@ -26,7 +26,7 @@ const bookSchema = new Schema(
         },
     },
     {
-        timeStamp: true,
+        timestamp: true,
     }
 );
 
